@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B97F9C0-E640-4BB2-9B8C-243218D4CD35</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyFirstDelegate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>17A9F194-2304-4258-A31D-9031BBD3F026</key>
+		<string>https://github.com/debweiss/Thinkful_Projects/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyFirstDelegate/MyFirstDelegate.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>17A9F194-2304-4258-A31D-9031BBD3F026</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>17A9F194-2304-4258-A31D-9031BBD3F026</key>
+		<string>https://github.com/debweiss/Thinkful_Projects</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/debweiss/Thinkful_Projects/trunk/MyFirstDelegate/MyFirstDelegate.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>17A9F194-2304-4258-A31D-9031BBD3F026</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>17A9F194-2304-4258-A31D-9031BBD3F026</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Thinkful_Projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>

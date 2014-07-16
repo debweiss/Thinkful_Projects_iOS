@@ -1,0 +1,682 @@
+TOutletExample
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.pch OutletExample/OutletExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample normal i386
+cCopyStringsFile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/en.lproj/InfoPlist.strings OutletExample/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Images.xcassets
+cProcessInfoPlistFile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Info.plist /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Info.plist
+cGenerateDSYMFile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app.dSYM /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample
+cTouch /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534825A30000000000000198
+t1397237155
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E56FA00000000000003B4
+t1394497274
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E56FF000000000000019E
+t1394497279
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531E5701000000000058E0E0
+t1394497281
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531E570100000000005B82F0
+t1394497281
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348256B0000000000446820
+t1397237099
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531E570200000000003599D0
+t1394497282
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531E570200000000002FC3B0
+t1394497282
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531E5702000000000004B000
+t1394497282
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E5703000000000088D8C0
+t1394497283
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531E57050000000000037680
+t1394497285
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531E5705000000000048F720
+t1394497285
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531E5705000000000013FD70
+t1394497285
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E57070000000001F1DE10
+t1394497287
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531E571200000000002BC360
+t1394497298
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531E57160000000000002338
+t1394497302
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531E5717000000000008D370
+t1394497303
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531E57170000000000392E20
+t1394497303
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005395158A00000000000141F0
+t1402279306
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531E57170000000000014A80
+t1394497303
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531E57170000000000033BA0
+t1394497303
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531E5717000000000001CFB0
+t1394497303
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531E5717000000000001B2B0
+t1394497303
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531E571700000000000C9570
+t1394497303
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531E57170000000000063280
+t1394497303
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531E57170000000000008880
+t1394497303
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531E57170000000000015080
+t1394497303
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531E571700000000000230F0
+t1394497303
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531E5717000000000000E380
+t1394497303
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531E57170000000000089380
+t1394497303
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531E57170000000000017320
+t1394497303
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531E57170000000000039CD0
+t1394497303
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531E5717000000000000B0B0
+t1394497303
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531E57170000000000167E80
+t1394497303
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531E571700000000000106A0
+t1394497303
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531E5717000000000001CE40
+t1394497303
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531E571700000000000740C0
+t1394497303
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531E5717000000000006CA60
+t1394497303
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531E5717000000000001BAD0
+t1394497303
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531E57170000000000084A20
+t1394497303
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E571A0000000000000ADC
+t1394497306
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005348256B000000000000514C
+t1397237099
+s20812
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Base.lproj/Main.storyboard
+c0000000053C0CAD90000000000000B64
+t1405143769
+s2916
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Images.xcassets
+c0000000053C0C8A20000000000000088
+t1405143202
+s136
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Info.plist
+c0000000053C0C8A200000000000004C8
+t1405143202
+s1224
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Prefix.pch
+c0000000053C0C8A20000000000000158
+t1405143202
+s344
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.h
+c0000000053C0C8A20000000000000137
+t1405143202
+s311
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m
+c0000000053C0C8A20000000000000804
+t1405143202
+s2052
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.h
+c0000000053C0C8A200000000000000F9
+t1405143202
+s249
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m
+c0000000053C0CB91000000000000040D
+t1405143953
+s1037
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/en.lproj/InfoPlist.strings
+c0000000053C0C8A2000000000000002D
+t1405143202
+s45
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m
+c0000000053C0C8A20000000000000173
+t1405143202
+s371
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app
+t1405143953
+s306
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app.dSYM
+t1405143808
+s102
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Base.lproj/Main.storyboardc
+t1405143807
+s170
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Info.plist
+t1405143808
+s1030
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample
+t1405143953
+s23020
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/PkgInfo
+t1405143808
+s8
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/en.lproj/InfoPlist.strings
+t1405143807
+s42
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/OutletExample.LinkFileList
+c0000000053C0CAFF00000000000001F2
+t1405143807
+s498
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+t1405143807
+s62896
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.o
+t1405143953
+s45824
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.o
+t1405143807
+s3612
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/assetcatalog_dependencies.txt
+t1405143808
+s423
+
+N/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/assetcatalog_generated_info.plist
+t1405143808
+s525
+
+N/usr/lib/libSystem.B.dylib
+c000000005395156D000000000000E6D0
+t1402279277
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005275936C0000000000012A00
+t1383437164
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052759352000000000002E320
+t1383437138
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005275935E0000000000021860
+t1383437150
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005275936B000000000001B620
+t1383437163
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005275936B00000000000BD920
+t1383437163
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005275936B000000000000A120
+t1383437163
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005314BEB7000000000001D550
+t1393868471
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005275936B0000000000014EE0
+t1383437163
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005275936D0000000000010380
+t1383437165
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005275936D000000000000C4C0
+t1383437165
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005275936B00000000000357A0
+t1383437163
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005275936C000000000000C070
+t1383437164
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005314BE900000000000168D00
+t1393868432
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000539515850000000000010630
+t1402279301
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005314BEB8000000000001DF10
+t1393868472
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005275935E0000000000075B00
+t1383437150
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005395156D000000000007CD60
+t1402279277
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005275935E00000000000766C0
+t1383437150
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005314BEB70000000000044DC0
+t1393868471
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005275935E0000000000021FA0
+t1383437150
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005314BEB7000000000002D920
+t1393868471
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005275936C000000000001E570
+t1383437164
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053951579000000000000CC70
+t1402279289
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052759367000000000000C3F0
+t1383437159
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005275936C00000000000199F0
+t1383437164
+s104944
+
+N/var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.pch
+t1405143807
+s122360
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese6c90d110371b941^768d0e110371b941^---0#1#1#--18"Check dependencies36"2898B32F-A488-4A41-A165-97B6B87B03F0-
+
+CCompileAssetCatalog /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Images.xcassets
+s426836607.853483
+e426836608.318663
+r1
+xCompileAssetCatalog
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/LaunchImage-700-568h@2x.png
+o/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Assets.car
+o/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"CompileAssetCatalog build/Debug-iphonesimulator/OutletExample.app OutletExample/Images.xcassets95"CompileAssetCatalog build/Debug-iphonesimulator/OutletExample.app OutletExample/Images.xcassets7e8bda7f0271b941^9f9451800271b941^-451"/* com.apple.actool.compilation-results *//Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/LaunchImage-700-568h@2x.png/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Assets.car/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@95"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Images.xcassets/0000000000000000^1235"CompileAssetCatalog build/Debug-iphonesimulator/OutletExample.app OutletExample/Images.xcassets    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Images.xcassets36"3B95C60F-3EAF-410A-8295-32E6F3A6C43E-
+b6B9E71B4-D0F5-47D1-8D9D-80292EA57502
+
+CCompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426836607.608306
+e426836607.733202
+r1
+xCompileC
+xbuild/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m228"CompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o OutletExample/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler85ce9b7f0271b941^67b6bb7f0271b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m0000000000000000^4017"CompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o OutletExample/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.dia -c /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.m -o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o36"CEBE2872-A408-4333-AF28-D93F7C05C564-
+b6B9E71B4-D0F5-47D1-8D9D-80292EA57502
+
+CCompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426836753.055346
+e426836753.111461
+r1
+xCompileC
+xbuild/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.o
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.h
+o/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m:37:12: warning: unused variable 'c' [-Wunused-variable]
+o        NSInteger c = a + b;
+o                  ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m234"CompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.o OutletExample/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler253f0e110371b941^f08a1c110371b941^-226"/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m:37:12: warning: unused variable 'c' [-Wunused-variable]        NSInteger c = a + b;                  ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@19"Unused variable 'c'-426836753#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@106"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m0000000000000000^36#11#36#11#889#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@106"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m0000000000000000^4035"CompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.o OutletExample/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.dia -c /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSViewController.m -o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.o36"7AF6023A-20D8-4393-B7A2-BF89FBA741A8-
+bC64933AA-8EF6-4D0C-8227-6FBA6DB97053
+
+CCompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426836607.607863
+e426836607.667758
+r1
+xCompileC
+xbuild/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.o
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/ThinkfuliOSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m192"CompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.o OutletExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbfb99b7f0271b941^1bf3aa7f0271b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m0000000000000000^3909"CompileC build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.o OutletExample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.dia -c /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/main.m -o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.o36"8A8FB752-D107-4195-9F91-9C23E1C269F0-
+b6B9E71B4-D0F5-47D1-8D9D-80292EA57502
+
+CCompileStoryboard /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Base.lproj/Main.storyboard
+s426836607.853210
+e426836607.901046
+r1
+xCompileStoryboard
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"CompileStoryboard OutletExample/Base.lproj/Main.storyboard58"CompileStoryboard OutletExample/Base.lproj/Main.storyboardb477da7f0271b941^c9ace67f0271b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Base.lproj/Main.storyboard0000000000000000^905"CompileStoryboard OutletExample/Base.lproj/Main.storyboard    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Base.lproj/Main.storyboardc /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/Base.lproj/Main.storyboard36"8FF517B7-5BB5-49EF-B350-17D68A6DF4BB-
+b6B9E71B4-D0F5-47D1-8D9D-80292EA57502
+
+CCopyStringsFile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/en.lproj/InfoPlist.strings OutletExample/en.lproj/InfoPlist.strings
+s426836607.853091
+e426836607.854013
+r1
+xCopyStringsFile
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/en.lproj/InfoPlist.strings
+xOutletExample/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy OutletExample/en.lproj/InfoPlist.strings129"CopyStringsFile build/Debug-iphonesimulator/OutletExample.app/en.lproj/InfoPlist.strings OutletExample/en.lproj/InfoPlist.strings0475da7f0271b941^5ea2da7f0271b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/en.lproj/InfoPlist.strings0000000000000000^637"CopyStringsFile build/Debug-iphonesimulator/OutletExample.app/en.lproj/InfoPlist.strings OutletExample/en.lproj/InfoPlist.strings    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/en.lproj -- OutletExample/en.lproj/InfoPlist.strings36"9986334F-2F5A-4225-A992-D5D3EED283C8-
+b6B9E71B4-D0F5-47D1-8D9D-80292EA57502
+
+CGenerateDSYMFile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app.dSYM /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample
+s426836753.141869
+e426836753.154211
+r1
+xGenerateDSYMFile
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app.dSYM
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generate /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app.dSYM127"GenerateDSYMFile build/Debug-iphonesimulator/OutletExample.app.dSYM build/Debug-iphonesimulator/OutletExample.app/OutletExample425d24110371b941^a27a27110371b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app.dSYM/0000000000000000^718"GenerateDSYMFile build/Debug-iphonesimulator/OutletExample.app.dSYM build/Debug-iphonesimulator/OutletExample.app/OutletExample    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample -o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app.dSYM36"D8407C93-D4E3-4A88-AF35-21CC359B6058-
+bC64933AA-8EF6-4D0C-8227-6FBA6DB97053
+
+CLd /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample normal i386
+s426836753.113152
+e426836753.140527
+r1
+xLd
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample
+xnormal
+xi386
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/OutletExample.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/main.o
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSViewController.o
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample74"Ld build/Debug-iphonesimulator/OutletExample.app/OutletExample normal i38608051d110371b941^3cfa23110371b941^---0#0#1#--1499"Ld build/Debug-iphonesimulator/OutletExample.app/OutletExample normal i386    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator -F/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator -filelist /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/OutletExample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/Objects-normal/i386/OutletExample_dependency_info.dat -o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/OutletExample36"B98C9A11-551A-402B-AC65-98B8BD9FEE77-
+bC64933AA-8EF6-4D0C-8227-6FBA6DB97053
+
+CProcessInfoPlistFile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Info.plist /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Info.plist
+s426836608.319304
+e426836608.321010
+r1
+xProcessInfoPlistFile
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Info.plist
+x/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Process /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Info.plist116"ProcessInfoPlistFile build/Debug-iphonesimulator/OutletExample.app/Info.plist OutletExample/OutletExample-Info.plist5cca51800271b941^e42e52800271b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Info.plist0000000000000000^990"ProcessInfoPlistFile build/Debug-iphonesimulator/OutletExample.app/Info.plist OutletExample/OutletExample-Info.plist    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Info.plist -genpkginfo /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/assetcatalog_generated_info.plist -o /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app/Info.plist36"667C76A5-5C17-4508-9D0B-4FA23516979A-
+b6B9E71B4-D0F5-47D1-8D9D-80292EA57502
+
+CProcessPCH /Users/debweiss/Library/Developer/Xcode/DerivedData/OutletExample-aspouzpgcamtdlcveuogjnbqyabe/Index/PrecompiledHeaders/OutletExample-Prefix-denuycafsxydoeanwefscoihvzat_ast/OutletExample-Prefix.pch.pch OutletExample/OutletExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.pch OutletExample/OutletExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426836607.435489
+e426836607.607234
+r1
+xProcessPCH
+x/var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.pch
+xOutletExample/OutletExample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile OutletExample/OutletExample-Prefix.pch314"ProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.pch OutletExample/OutletExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf88d6f7f0271b941^d5769b7f0271b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Prefix.pch0000000000000000^3982"ProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.pch OutletExample/OutletExample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/OutletExample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/OutletExample-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/OutletExample.build/Debug-iphonesimulator/OutletExample.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.d -c /Users/debweiss/Documents/Thinkful_Projects/OutletExample/OutletExample/OutletExample-Prefix.pch -o /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/OutletExample-Prefix-bhbkbqtisttqhddjjwmerkmoohvz/OutletExample-Prefix.pch.pch36"9D3E8170-5FB2-4C9F-B5A9-D45157F0661B-
+b6B9E71B4-D0F5-47D1-8D9D-80292EA57502
+
+CTouch /Users/debweiss/Documents/Thinkful_Projects/OutletExample/build/Debug-iphonesimulator/OutletExample.app
+r0
+

@@ -1,0 +1,412 @@
+TMyFirstDelegate
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist
+cProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate normal armv7
+cCopyStringsFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/en.lproj/InfoPlist.strings MyFirstDelegate/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets
+cProcessInfoPlistFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Info.plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist
+cGenerateDSYMFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app.dSYM /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate
+cProcessProductPackaging /Users/debweiss/Library/MobileDevice/Provisioning\ Profiles/82D184DD-44CE-4236-ACBA-9D84DE00ECE4.mobileprovision /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision
+cTouch /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent
+cCodeSign /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c000000005348258A0000000000000132
+t1397237130
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000531E56E80000000000000094
+t1394497256
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531E56E80000000000000096
+t1394497256
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531E56E8000000000000036B
+t1394497256
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E56E9000000000000019E
+t1394497257
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348256B00000000004D7BC0
+t1397237099
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E56EB0000000000A90C10
+t1394497259
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E56EF0000000002759920
+t1394497263
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E571A0000000000000ADC
+t1394497306
+s2780
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard
+c0000000053C176620000000000000EF9
+t1405187682
+s3833
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets
+c0000000053C174BF0000000000000088
+t1405187263
+s136
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist
+c0000000053C174BF00000000000004C8
+t1405187263
+s1224
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Prefix.pch
+c0000000053C174BF0000000000000158
+t1405187263
+s344
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m
+c0000000053C174BF0000000000000806
+t1405187263
+s2054
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m
+c0000000053C1766200000000000002D5
+t1405187682
+s725
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/en.lproj/InfoPlist.strings
+c0000000053C174BF000000000000002D
+t1405187263
+s45
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m
+c0000000053C174BF0000000000000175
+t1405187263
+s373
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app
+t1405187687
+s374
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app.dSYM
+t2
+s0
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Base.lproj/Main.storyboardc
+t1405187687
+s170
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Info.plist
+t1405187687
+s1320
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate
+t1405187683
+s55424
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/PkgInfo
+t1405187687
+s8
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist
+t1405187682
+s150
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision
+t1405187687
+s7584
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/en.lproj/InfoPlist.strings
+t1405187683
+s42
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent
+t1405187687
+s505
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/MyFirstDelegate.LinkFileList
+c0000000053C1766200000000000001F2
+t1405187682
+s498
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.o
+t1405187683
+s62164
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.o
+t1405187683
+s49888
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.o
+t1405187683
+s3872
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/assetcatalog_dependencies.txt
+t1405187685
+s416
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/assetcatalog_generated_info.plist
+t1405187685
+s525
+
+N/Users/debweiss/Library/MobileDevice/Provisioning Profiles/82D184DD-44CE-4236-ACBA-9D84DE00ECE4.mobileprovision
+c00000000539C7D890000000000001DA0
+t1402764681
+s7584
+
+N/var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.pch
+t1405187683
+s94448
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd9b5b9e2ad71b941^d922c9e2ad71b941^---0#1#1#--18"Check dependencies36"EA60A708-8C33-4E5C-946E-964214DB0F59-
+
+CCodeSign /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app
+s426880487.821638
+e426880488.262889
+r1
+xCodeSign
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CodeSign build/Debug-iphoneos/MyFirstDelegate.app49"CodeSign build/Debug-iphoneos/MyFirstDelegate.app1e6bd2e7ad71b941^cf4d43e8ad71b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/0000000000000000^1098"CodeSign build/Debug-iphoneos/MyFirstDelegate.app    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Debra Cooperman (N3KNZZ82P7)" and provisioning profile "iOS Team Provisioning Profile: *" (82D184DD-44CE-4236-ACBA-9D84DE00ECE4)    /usr/bin/codesign --force --sign 988C3AC853672F7B8C72C7C0FABBA87762A24EE5 --resource-rules=/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist --entitlements /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app36"101C4C65-AE6B-4A47-94B2-041D20CB9D14-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CCompileAssetCatalog /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets
+s426880483.482724
+e426880485.764524
+r1
+xCompileAssetCatalog
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/LaunchImage-700-568h@2x.png
+o/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Assets.car
+o/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CompileAssetCatalog build/Debug-iphoneos/MyFirstDelegate.app MyFirstDelegate/Images.xcassets92"CompileAssetCatalog build/Debug-iphoneos/MyFirstDelegate.app MyFirstDelegate/Images.xcassets43ab7be3ad71b941^c3b8c3e5ad71b941^-444"/* com.apple.actool.compilation-results *//Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/LaunchImage-700-568h@2x.png/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Assets.car/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@99"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets/0000000000000000^1174"CompileAssetCatalog build/Debug-iphoneos/MyFirstDelegate.app MyFirstDelegate/Images.xcassets    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets36"A0C4032E-C558-450F-8966-FB6BF92FB083-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CCompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426880483.055248
+e426880483.239275
+r1
+xCompileC
+xbuild/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.o
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m229"CompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.o MyFirstDelegate/ThinkfuliOSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera6440ee3ad71b941^d9413de3ad71b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m0000000000000000^3926"CompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.o MyFirstDelegate/ThinkfuliOSAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/DerivedSources/armv7 -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.dia -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.o36"BA8CE61B-133A-42A1-AFB5-041712B5F255-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CCompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426880483.054820
+e426880483.266047
+r1
+xCompileC
+xbuild/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.o
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m235"CompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.o MyFirstDelegate/ThinkfuliOSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler13280ee3ad71b941^fc1b44e3ad71b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m0000000000000000^3944"CompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.o MyFirstDelegate/ThinkfuliOSViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/DerivedSources/armv7 -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.dia -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.o36"712E101C-6099-4A47-8E44-30C1362B28D5-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CCompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426880483.054471
+e426880483.236465
+r1
+xCompileC
+xbuild/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.o
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m193"CompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.o MyFirstDelegate/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler840e0ee3ad71b941^8f893ce3ad71b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m0000000000000000^3818"CompileC build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.o MyFirstDelegate/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/DerivedSources/armv7 -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.dia -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.o36"85F58BD9-B148-479E-84B6-5E80DF2C2DDB-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CCompileStoryboard /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard
+s426880483.482164
+e426880487.774360
+r1
+xCompileStoryboard
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard MyFirstDelegate/Base.lproj/Main.storyboard60"CompileStoryboard MyFirstDelegate/Base.lproj/Main.storyboard9c8b7be3ad71b941^713dc6e7ad71b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard0000000000000000^858"CompileStoryboard MyFirstDelegate/Base.lproj/Main.storyboard    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Base.lproj/Main.storyboardc /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard36"96040DA7-16DA-436E-8CB5-5124583E8988-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CCopyStringsFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/en.lproj/InfoPlist.strings MyFirstDelegate/en.lproj/InfoPlist.strings
+s426880483.481993
+e426880483.483697
+r1
+xCopyStringsFile
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/en.lproj/InfoPlist.strings
+xMyFirstDelegate/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy MyFirstDelegate/en.lproj/InfoPlist.strings126"CopyStringsFile build/Debug-iphoneos/MyFirstDelegate.app/en.lproj/InfoPlist.strings MyFirstDelegate/en.lproj/InfoPlist.strings397f7be3ad71b941^4ad47be3ad71b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/en.lproj/InfoPlist.strings0000000000000000^628"CopyStringsFile build/Debug-iphoneos/MyFirstDelegate.app/en.lproj/InfoPlist.strings MyFirstDelegate/en.lproj/InfoPlist.strings    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/en.lproj -- MyFirstDelegate/en.lproj/InfoPlist.strings36"D9E97E40-BF10-41F5-B68C-925F5E5085F9-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist
+s426880482.786694
+e426880482.788509
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist193"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist7d79c9e2ad71b941^4c34cce2ad71b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist003478b5dcffdf42^784"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app36"1CEA2E09-D2DB-4FE8-A1D7-089E5E18461B-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CGenerateDSYMFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app.dSYM /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate
+s426880487.777724
+e426880487.817266
+r1
+xGenerateDSYMFile
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app.dSYM
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generate /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app.dSYM119"GenerateDSYMFile build/Debug-iphoneos/MyFirstDelegate.app.dSYM build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegatee92cc7e7ad71b941^5439d1e7ad71b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app.dSYM003478b5dcffdf42^701"GenerateDSYMFile build/Debug-iphoneos/MyFirstDelegate.app.dSYM build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app.dSYM36"49C7076F-8472-4EF1-BF1C-4AADB087F5E7-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CLd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate normal armv7
+s426880483.266963
+e426880483.481150
+r1
+xLd
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate
+xnormal
+xarmv7
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/MyFirstDelegate.LinkFileList
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/main.o
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSViewController.o
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/ThinkfuliOSAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate72"Ld build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate normal armv74d6a44e3ad71b941^2c2d7be3ad71b941^---0#0#1#--1412"Ld build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate normal armv7    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos -filelist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/MyFirstDelegate.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/Objects-normal/armv7/MyFirstDelegate_dependency_info.dat -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/MyFirstDelegate36"46B63089-C23E-4265-A273-B74D4D997999-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CProcessInfoPlistFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Info.plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist
+s426880487.775081
+e426880487.777272
+r1
+xProcessInfoPlistFile
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Info.plist
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Process /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist115"ProcessInfoPlistFile build/Debug-iphoneos/MyFirstDelegate.app/Info.plist MyFirstDelegate/MyFirstDelegate-Info.plist9083c6e7ad71b941^26fcc6e7ad71b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist0000000000000000^1116"ProcessInfoPlistFile build/Debug-iphoneos/MyFirstDelegate.app/Info.plist MyFirstDelegate/MyFirstDelegate-Info.plist    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist -genpkginfo /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/ResourceRules.plist -additionalcontentfile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/assetcatalog_generated_info.plist -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/Info.plist36"F15A78FF-0A1C-463D-9303-5399451791DC-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CProcessPCH /Users/debweiss/Library/Developer/Xcode/DerivedData/MyFirstDelegate-bbelevzfpicsblhajyrutwgdduwa/Index/PrecompiledHeaders/MyFirstDelegate-Prefix-fjxitjarevfvswgtiqhyksdihvxz_ast/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426880482.789649
+e426880483.053572
+r1
+xProcessPCH
+x/var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.pch
+xMyFirstDelegate/MyFirstDelegate-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile MyFirstDelegate/MyFirstDelegate-Prefix.pch323"ProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5647cae2ad71b941^9eb70de3ad71b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Prefix.pch0000000000000000^3909"ProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/DerivedSources/armv7 -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos --serialize-diagnostics /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.d -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Prefix.pch -o /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-hfffbnvjdsdaifbzrrsxugmpprmu/MyFirstDelegate-Prefix.pch.pch36"ADC695A1-C8B9-43A2-9B36-BD610142F5CB-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent
+s426880487.820068
+e426880487.821272
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection231"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent231"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent8203d2e7ad71b941^683fd2e7ad71b941^---0#0#1#-19%DVTDocumentLocation2@153"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent003478b5dcffdf42^820"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphoneos/MyFirstDelegate.build/MyFirstDelegate.xcent36"A34D7F68-C0A1-4ABE-907E-FC96E2CB10C2-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CProcessProductPackaging /Users/debweiss/Library/MobileDevice/Provisioning\ Profiles/82D184DD-44CE-4236-ACBA-9D84DE00ECE4.mobileprovision /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision
+s426880487.817689
+e426880487.819337
+r1
+xProcessProductPackaging
+x/Users/debweiss/Library/MobileDevice/Provisioning Profiles/82D184DD-44CE-4236-ACBA-9D84DE00ECE4.mobileprovision
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection202"ProcessProductPackaging /Users/debweiss/Library/MobileDevice/Provisioning\ Profiles/82D184DD-44CE-4236-ACBA-9D84DE00ECE4.mobileprovision build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision202"ProcessProductPackaging /Users/debweiss/Library/MobileDevice/Provisioning\ Profiles/82D184DD-44CE-4236-ACBA-9D84DE00ECE4.mobileprovision build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision6b62d1e7ad71b941^bac0d1e7ad71b941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision003478b5dcffdf42^736"ProcessProductPackaging /Users/debweiss/Library/MobileDevice/Provisioning\ Profiles/82D184DD-44CE-4236-ACBA-9D84DE00ECE4.mobileprovision build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/debweiss/Library/MobileDevice/Provisioning\ Profiles/82D184DD-44CE-4236-ACBA-9D84DE00ECE4.mobileprovision -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app/embedded.mobileprovision36"EE0EF550-88B6-4CC9-B912-8BA0688B78B8-
+b3CECFCFC-6449-438E-BE2F-86F8EF3B65C6
+
+CTouch /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphoneos/MyFirstDelegate.app
+r0
+

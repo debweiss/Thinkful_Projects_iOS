@@ -1,0 +1,689 @@
+TMyFirstDelegate
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate normal i386
+cCopyStringsFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/en.lproj/InfoPlist.strings MyFirstDelegate/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets
+cProcessInfoPlistFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Info.plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist
+cGenerateDSYMFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate
+cTouch /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534825A30000000000000198
+t1397237155
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E56FA00000000000003B4
+t1394497274
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E56FF000000000000019E
+t1394497279
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531E5701000000000058E0E0
+t1394497281
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531E570100000000005B82F0
+t1394497281
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348256B0000000000446820
+t1397237099
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531E570200000000003599D0
+t1394497282
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531E570200000000002FC3B0
+t1394497282
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531E5702000000000004B000
+t1394497282
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E5703000000000088D8C0
+t1394497283
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531E57050000000000037680
+t1394497285
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531E5705000000000048F720
+t1394497285
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531E5705000000000013FD70
+t1394497285
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E57070000000001F1DE10
+t1394497287
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531E571200000000002BC360
+t1394497298
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531E57160000000000002338
+t1394497302
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531E5717000000000008D370
+t1394497303
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531E57170000000000392E20
+t1394497303
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005395158A00000000000141F0
+t1402279306
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531E57170000000000014A80
+t1394497303
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531E57170000000000033BA0
+t1394497303
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531E5717000000000001CFB0
+t1394497303
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531E5717000000000001B2B0
+t1394497303
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531E571700000000000C9570
+t1394497303
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531E57170000000000063280
+t1394497303
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531E57170000000000008880
+t1394497303
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531E57170000000000015080
+t1394497303
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531E571700000000000230F0
+t1394497303
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531E5717000000000000E380
+t1394497303
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531E57170000000000089380
+t1394497303
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531E57170000000000017320
+t1394497303
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531E57170000000000039CD0
+t1394497303
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531E5717000000000000B0B0
+t1394497303
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531E57170000000000167E80
+t1394497303
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531E571700000000000106A0
+t1394497303
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531E5717000000000001CE40
+t1394497303
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531E571700000000000740C0
+t1394497303
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531E5717000000000006CA60
+t1394497303
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531E5717000000000001BAD0
+t1394497303
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531E57170000000000084A20
+t1394497303
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E571A0000000000000ADC
+t1394497306
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005348256B000000000000514C
+t1397237099
+s20812
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard
+c0000000053C4C2BA0000000000001337
+t1405403834
+s4919
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets
+c0000000053C174BF0000000000000088
+t1405187263
+s136
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist
+c0000000053C174BF00000000000004C8
+t1405187263
+s1224
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Prefix.pch
+c0000000053C174BF0000000000000158
+t1405187263
+s344
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.h
+c0000000053C174BF0000000000000139
+t1405187263
+s313
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m
+c0000000053C174BF0000000000000806
+t1405187263
+s2054
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.h
+c0000000053C4C1700000000000000125
+t1405403504
+s293
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m
+c0000000053C4C2BA000000000000064E
+t1405403834
+s1614
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/en.lproj/InfoPlist.strings
+c0000000053C174BF000000000000002D
+t1405187263
+s45
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m
+c0000000053C174BF0000000000000175
+t1405187263
+s373
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app
+t1405403834
+s306
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM
+t1405403506
+s102
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Base.lproj/Main.storyboardc
+t1405403835
+s170
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Info.plist
+t1405187700
+s1040
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate
+t1405403834
+s24012
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/PkgInfo
+t1405187700
+s8
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/en.lproj/InfoPlist.strings
+t1405187700
+s42
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/MyFirstDelegate.LinkFileList
+c0000000053C176730000000000000204
+t1405187699
+s516
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+t1405187700
+s62904
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.o
+t1405403834
+s61596
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.o
+t1405187700
+s3624
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/assetcatalog_dependencies.txt
+t1405187700
+s437
+
+N/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/assetcatalog_generated_info.plist
+t1405187700
+s525
+
+N/usr/lib/libSystem.B.dylib
+c000000005395156D000000000000E6D0
+t1402279277
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005275936C0000000000012A00
+t1383437164
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052759352000000000002E320
+t1383437138
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005275935E0000000000021860
+t1383437150
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005275936B000000000001B620
+t1383437163
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005275936B00000000000BD920
+t1383437163
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005395158A00000000000141F0
+t1402279306
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005275936B000000000000A120
+t1383437163
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005314BEB7000000000001D550
+t1393868471
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005275936B0000000000014EE0
+t1383437163
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005275936D0000000000010380
+t1383437165
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005275936D000000000000C4C0
+t1383437165
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005275936B00000000000357A0
+t1383437163
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005275936C000000000000C070
+t1383437164
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005314BE900000000000168D00
+t1393868432
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000539515850000000000010630
+t1402279301
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005314BEB8000000000001DF10
+t1393868472
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005275935E0000000000075B00
+t1383437150
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005395156D000000000007CD60
+t1402279277
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005275935E00000000000766C0
+t1383437150
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005314BEB70000000000044DC0
+t1393868471
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005275935E0000000000021FA0
+t1383437150
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005314BEB7000000000002D920
+t1393868471
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005275936C000000000001E570
+t1383437164
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053951579000000000000CC70
+t1402279289
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052759367000000000000C3F0
+t1383437159
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005275936C00000000000199F0
+t1383437164
+s104944
+
+N/var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.pch
+t1405187699
+s122488
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1d77323afa74b941^dee8333afa74b941^---0#1#1#--18"Check dependencies36"FB6278E8-82D4-4B8C-A3BF-7A0464F1D494-
+
+CCompileAssetCatalog /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets
+s426880500.172794
+e426880500.701839
+r1
+xCompileAssetCatalog
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/LaunchImage-700-568h@2x.png
+o/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Assets.car
+o/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CompileAssetCatalog build/Debug-iphonesimulator/MyFirstDelegate.app MyFirstDelegate/Images.xcassets99"CompileAssetCatalog build/Debug-iphonesimulator/MyFirstDelegate.app MyFirstDelegate/Images.xcassetsfc512cf4ad71b941^c5acb3f4ad71b941^-465"/* com.apple.actool.compilation-results *//Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/LaunchImage-700-568h@2x.png/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Assets.car/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@99"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets/0000000000000000^1261"CompileAssetCatalog build/Debug-iphonesimulator/MyFirstDelegate.app MyFirstDelegate/Images.xcassets    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Images.xcassets36"610CA778-583C-4AE2-A8E1-EFB0DED3CC72-
+b1212E7C8-5633-496B-8E49-8CBC8881685A
+
+CCompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426880499.916862
+e426880500.077690
+r1
+xCompileC
+xbuild/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m234"CompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o MyFirstDelegate/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler18cdeaf3ad71b941^7ee313f4ad71b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m0000000000000000^4099"CompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o MyFirstDelegate/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.dia -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.m -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o36"B674CBB8-E540-4C55-B9DA-239FEBDBE198-
+b1212E7C8-5633-496B-8E49-8CBC8881685A
+
+CCompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427096634.198540
+e427096634.259499
+r1
+xCompileC
+xbuild/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.o
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m240"CompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.o MyFirstDelegate/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36e9323afa74b941^fc6e423afa74b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m0000000000000000^4117"CompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.o MyFirstDelegate/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.dia -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSViewController.m -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.o36"B4BCF840-D3DE-4A50-9F38-F12514F43185-
+bAFDF84CE-3B8F-4F21-9D55-CFB0F51A93C9
+
+CCompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426880499.916229
+e426880500.016791
+r1
+xCompileC
+xbuild/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.o
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/ThinkfuliOSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m198"CompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.o MyFirstDelegate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerffafeaf3ad71b941^594c04f4ad71b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m0000000000000000^3991"CompileC build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.o MyFirstDelegate/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.dia -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/main.m -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.o36"56954599-DF45-4FD9-9DFB-B7B6FCAB0693-
+b1212E7C8-5633-496B-8E49-8CBC8881685A
+
+CCompileStoryboard /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard
+s427096634.289960
+e427096635.560880
+r1
+xCompileStoryboard
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard MyFirstDelegate/Base.lproj/Main.storyboard60"CompileStoryboard MyFirstDelegate/Base.lproj/Main.storyboard2a554a3afa74b941^8d968f3bfa74b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard0000000000000000^917"CompileStoryboard MyFirstDelegate/Base.lproj/Main.storyboard    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Base.lproj/Main.storyboardc /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/Base.lproj/Main.storyboard36"1F7A8E91-116B-4619-88E4-97AD30784CEA-
+bAFDF84CE-3B8F-4F21-9D55-CFB0F51A93C9
+
+CCopyStringsFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/en.lproj/InfoPlist.strings MyFirstDelegate/en.lproj/InfoPlist.strings
+s426880500.171970
+e426880500.173556
+r1
+xCopyStringsFile
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/en.lproj/InfoPlist.strings
+xMyFirstDelegate/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy MyFirstDelegate/en.lproj/InfoPlist.strings133"CopyStringsFile build/Debug-iphonesimulator/MyFirstDelegate.app/en.lproj/InfoPlist.strings MyFirstDelegate/en.lproj/InfoPlist.strings1c242cf4ad71b941^376f2cf4ad71b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/en.lproj/InfoPlist.strings0000000000000000^649"CopyStringsFile build/Debug-iphonesimulator/MyFirstDelegate.app/en.lproj/InfoPlist.strings MyFirstDelegate/en.lproj/InfoPlist.strings    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/en.lproj -- MyFirstDelegate/en.lproj/InfoPlist.strings36"B81D7AC6-242C-4AD0-A267-2B41C0913CDC-
+b1212E7C8-5633-496B-8E49-8CBC8881685A
+
+CGenerateDSYMFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate
+s427096635.561555
+e427096635.593762
+r1
+xGenerateDSYMFile
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generate /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM133"GenerateDSYMFile build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegateeecd8f3bfa74b941^f701983bfa74b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM/0000000000000000^736"GenerateDSYMFile build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app.dSYM36"5324EDED-A7A9-441E-841F-0606D5483A6D-
+bAFDF84CE-3B8F-4F21-9D55-CFB0F51A93C9
+
+CLd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate normal i386
+s427096634.261168
+e427096634.288818
+r1
+xLd
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate
+xnormal
+xi386
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/MyFirstDelegate.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/main.o
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSViewController.o
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate78"Ld build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate normal i38668e9423afa74b941^a2f0493afa74b941^---0#0#1#--1531"Ld build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate normal i386    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator -filelist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/MyFirstDelegate.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/Objects-normal/i386/MyFirstDelegate_dependency_info.dat -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/MyFirstDelegate36"089F9652-0E84-4B2F-824B-F7DA16DA9D28-
+bAFDF84CE-3B8F-4F21-9D55-CFB0F51A93C9
+
+CProcessInfoPlistFile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Info.plist /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist
+s426880500.831584
+e426880500.833626
+r1
+xProcessInfoPlistFile
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Info.plist
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Process /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist122"ProcessInfoPlistFile build/Debug-iphonesimulator/MyFirstDelegate.app/Info.plist MyFirstDelegate/MyFirstDelegate-Info.plist40f8d4f4ad71b941^5e69d5f4ad71b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist0000000000000000^1018"ProcessInfoPlistFile build/Debug-iphonesimulator/MyFirstDelegate.app/Info.plist MyFirstDelegate/MyFirstDelegate-Info.plist    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Info.plist -genpkginfo /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/assetcatalog_generated_info.plist -o /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app/Info.plist36"DE247FF8-E82B-4EF7-83EB-BEB7A9FC3C14-
+b1212E7C8-5633-496B-8E49-8CBC8881685A
+
+CProcessPCH /Users/debweiss/Library/Developer/Xcode/DerivedData/MyFirstDelegate-bbelevzfpicsblhajyrutwgdduwa/Index/PrecompiledHeaders/MyFirstDelegate-Prefix-drutkzpbbzygrlespjrkdnwxyemc_ast/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426880499.731813
+e426880499.915561
+r1
+xProcessPCH
+x/var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.pch
+xMyFirstDelegate/MyFirstDelegate-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile MyFirstDelegate/MyFirstDelegate-Prefix.pch322"ProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a73bbf3ad71b941^bb62eaf3ad71b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Prefix.pch0000000000000000^4058"ProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.pch MyFirstDelegate/MyFirstDelegate-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/MyFirstDelegate-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/MyFirstDelegate.build/Debug-iphonesimulator/MyFirstDelegate.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.d -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/MyFirstDelegate/MyFirstDelegate-Prefix.pch -o /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MyFirstDelegate-Prefix-gfjcxqtebuvicegfootoecvuefxj/MyFirstDelegate-Prefix.pch.pch36"B184127B-7666-4126-89B1-3F68A1FB9425-
+b1212E7C8-5633-496B-8E49-8CBC8881685A
+
+CTouch /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app
+s427096635.594166
+e427096635.598084
+r1
+xTouch
+x/Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Touch /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app53"Touch build/Debug-iphonesimulator/MyFirstDelegate.appaf25983bfa74b941^8f1c993bfa74b941^---0#0#1#--446"Touch build/Debug-iphonesimulator/MyFirstDelegate.app    cd /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/debweiss/Documents/Thinkful_Projects/MyFirstDelegate/build/Debug-iphonesimulator/MyFirstDelegate.app36"3F7046F5-C61C-4E9D-B553-EABBC503A0A3-
+bAFDF84CE-3B8F-4F21-9D55-CFB0F51A93C9
+

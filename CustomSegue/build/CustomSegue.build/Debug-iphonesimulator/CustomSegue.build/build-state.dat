@@ -1,0 +1,393 @@
+TCustomSegue
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.pch CustomSegue/CustomSegue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue normal i386
+cCopyStringsFile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/en.lproj/InfoPlist.strings CustomSegue/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Images.xcassets
+cProcessInfoPlistFile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Info.plist /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Info.plist
+cGenerateDSYMFile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app.dSYM /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue
+cTouch /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534825A30000000000000198
+t1397237155
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E56FA00000000000003B4
+t1394497274
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E56FF000000000000019E
+t1394497279
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348256B0000000000446820
+t1397237099
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E5703000000000088D8C0
+t1394497283
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E57070000000001F1DE10
+t1394497287
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E571A0000000000000ADC
+t1394497306
+s2780
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Base.lproj/Main.storyboard
+c0000000053C1733F00000000000013AE
+t1405186879
+s5038
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Info.plist
+c0000000053C171D800000000000004C8
+t1405186520
+s1224
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Prefix.pch
+c0000000053C171D80000000000000158
+t1405186520
+s344
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Images.xcassets
+c0000000053C171D80000000000000088
+t1405186520
+s136
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m
+c0000000053C171D80000000000000802
+t1405186520
+s2050
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m
+c0000000053C171D80000000000000223
+t1405186520
+s547
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/en.lproj/InfoPlist.strings
+c0000000053C171D8000000000000002D
+t1405186520
+s45
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m
+c0000000053C171D80000000000000171
+t1405186520
+s369
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m
+c0000000053C1733F0000000000000185
+t1405186879
+s389
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/CustomSegue.LinkFileList
+c0000000053C1734F0000000000000277
+t1405186895
+s631
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.o
+t1405186895
+s38964
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+t1405186895
+s62888
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.o
+t1405186895
+s39204
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.o
+t1405186895
+s3604
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/assetcatalog_dependencies.txt
+t1405186896
+s409
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/assetcatalog_generated_info.plist
+t1405186896
+s525
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app
+t1405186896
+s306
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app.dSYM
+t2
+s0
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Base.lproj/Main.storyboardc
+t1405186896
+s238
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue
+t1405186896
+s18160
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Info.plist
+t1405186896
+s1024
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/PkgInfo
+t1405186896
+s8
+
+N/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/en.lproj/InfoPlist.strings
+t1405186896
+s42
+
+N/var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.pch
+t1405186895
+s122240
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m
+r0
+
+CBuild AST from /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa1b94acfaa71b941^d14157cfaa71b941^---0#1#1#--18"Check dependencies36"107978BE-AC74-42B3-AD8B-61FA05D96E14-
+
+CCompileAssetCatalog /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Images.xcassets
+s426879696.076608
+e426879696.525836
+r1
+xCompileAssetCatalog
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/LaunchImage-700-568h@2x.png
+o/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Assets.car
+o/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"CompileAssetCatalog build/Debug-iphonesimulator/CustomSegue.app CustomSegue/Images.xcassets91"CompileAssetCatalog build/Debug-iphonesimulator/CustomSegue.app CustomSegue/Images.xcassetsd8bb13d0aa71b941^2c9e86d0aa71b941^-437"/* com.apple.actool.compilation-results *//Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/LaunchImage-700-568h@2x.png/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Assets.car/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@91"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Images.xcassets/0000000000000000^1209"CompileAssetCatalog build/Debug-iphonesimulator/CustomSegue.app CustomSegue/Images.xcassets    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Images.xcassets36"F1849F9F-9A9A-4B74-A6A1-B86577F73BB9-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CCompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426879695.538593
+e426879695.943672
+r1
+xCompileC
+xbuild/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.o
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m182"CompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.o PopSegue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c038acfaa71b941^6895f1cfaa71b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m0000000000000000^3827"CompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.o PopSegue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.dia -c /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/PopSegue.m -o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.o36"1D1FCF3E-7C9A-4961-AC01-6CECB56C4C67-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CCompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426879695.539577
+e426879695.962935
+r1
+xCompileC
+xbuild/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m222"CompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o CustomSegue/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere2598acfaa71b941^a183f6cfaa71b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m0000000000000000^3935"CompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o CustomSegue/ThinkfuliOSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.dia -c /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.m -o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o36"08AF9AFD-9A36-4649-AF5D-6982D4A76C46-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CCompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426879695.538904
+e426879695.943732
+r1
+xCompileC
+xbuild/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.o
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m228"CompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.o CustomSegue/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2178acfaa71b941^a9a1f1cfaa71b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m0000000000000000^3953"CompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.o CustomSegue/ThinkfuliOSViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.dia -c /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSViewController.m -o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.o36"AAD6B73A-EDFA-4DF3-B4E7-28E9C9CF211A-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CCompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426879695.538291
+e426879695.647002
+r1
+xCompileC
+xbuild/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.o
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/ThinkfuliOSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m186"CompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.o CustomSegue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler81e889cfaa71b941^0ea2a5cfaa71b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m0000000000000000^3827"CompileC build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.o CustomSegue/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator -include /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch -MMD -MT dependencies -MF /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.dia -c /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/main.m -o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.o36"5BF80F52-5CD0-447E-B1A0-8A09E2A7AC06-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CCompileStoryboard /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Base.lproj/Main.storyboard
+s426879696.076005
+e426879696.216922
+r1
+xCompileStoryboard
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard CustomSegue/Base.lproj/Main.storyboard56"CompileStoryboard CustomSegue/Base.lproj/Main.storyboardec8413d0aa71b941^988837d0aa71b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Base.lproj/Main.storyboard0000000000000000^893"CompileStoryboard CustomSegue/Base.lproj/Main.storyboard    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Base.lproj/Main.storyboardc /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/Base.lproj/Main.storyboard36"7E3AF2BF-AA26-46D9-9407-95F1C213FFD1-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CCopyStringsFile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/en.lproj/InfoPlist.strings CustomSegue/en.lproj/InfoPlist.strings
+s426879696.075781
+e426879696.076991
+r1
+xCopyStringsFile
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/en.lproj/InfoPlist.strings
+xCustomSegue/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy CustomSegue/en.lproj/InfoPlist.strings125"CopyStringsFile build/Debug-iphonesimulator/CustomSegue.app/en.lproj/InfoPlist.strings CustomSegue/en.lproj/InfoPlist.stringsb77913d0aa71b941^e5b813d0aa71b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/en.lproj/InfoPlist.strings0000000000000000^625"CopyStringsFile build/Debug-iphonesimulator/CustomSegue.app/en.lproj/InfoPlist.strings CustomSegue/en.lproj/InfoPlist.strings    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/en.lproj -- CustomSegue/en.lproj/InfoPlist.strings36"EB4643D4-ED31-41BF-8965-8B839B188590-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CGenerateDSYMFile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app.dSYM /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue
+s426879696.528457
+e426879696.549198
+r1
+xGenerateDSYMFile
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app.dSYM
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Generate /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app.dSYM121"GenerateDSYMFile build/Debug-iphonesimulator/CustomSegue.app.dSYM build/Debug-iphonesimulator/CustomSegue.app/CustomSegueac5587d0aa71b941^7c998cd0aa71b941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app.dSYM003478b5dcffdf42^700"GenerateDSYMFile build/Debug-iphonesimulator/CustomSegue.app.dSYM build/Debug-iphonesimulator/CustomSegue.app/CustomSegue    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue -o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app.dSYM36"A31A7ABA-8F26-411E-8520-9B0B1FA8A920-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CLd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue normal i386
+s426879695.964239
+e426879696.074783
+r1
+xLd
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue
+xnormal
+xi386
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/CustomSegue.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/main.o
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/PopSegue.o
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSViewController.o
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/ThinkfuliOSAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Link /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue70"Ld build/Debug-iphonesimulator/CustomSegue.app/CustomSegue normal i386a9f5f6cfaa71b941^702513d0aa71b941^---0#0#1#--1467"Ld build/Debug-iphonesimulator/CustomSegue.app/CustomSegue normal i386    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator -F/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator -filelist /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/CustomSegue.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/Objects-normal/i386/CustomSegue_dependency_info.dat -o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/CustomSegue36"C379384D-F6F1-432F-B628-372256F84AA6-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CProcessInfoPlistFile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Info.plist /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Info.plist
+s426879696.526399
+e426879696.527969
+r1
+xProcessInfoPlistFile
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Info.plist
+x/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Process /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Info.plist110"ProcessInfoPlistFile build/Debug-iphonesimulator/CustomSegue.app/Info.plist CustomSegue/CustomSegue-Info.plistd0d186d0aa71b941^d42987d0aa71b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Info.plist0000000000000000^962"ProcessInfoPlistFile build/Debug-iphonesimulator/CustomSegue.app/Info.plist CustomSegue/CustomSegue-Info.plist    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Info.plist -genpkginfo /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/assetcatalog_generated_info.plist -o /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app/Info.plist36"37D5BCFC-F3BB-4231-B948-1B47A5482FAD-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CProcessPCH /Users/debweiss/Library/Developer/Xcode/DerivedData/CustomSegue-gthhiheqqgbxkvasyhxcfvmdqxod/Index/PrecompiledHeaders/CustomSegue-Prefix-gvafguihscjxfrfaapoitysmrkiu_ast/CustomSegue-Prefix.pch.pch CustomSegue/CustomSegue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.pch CustomSegue/CustomSegue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426879695.341790
+e426879695.537617
+r1
+xProcessPCH
+x/var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.pch
+xCustomSegue/CustomSegue-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile CustomSegue/CustomSegue-Prefix.pch306"ProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.pch CustomSegue/CustomSegue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler039357cfaa71b941^baa189cfaa71b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Prefix.pch0000000000000000^3906"ProcessPCH /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.pch CustomSegue/CustomSegue-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/debweiss/Documents/Thinkful_Projects/CustomSegue    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/debweiss/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-generated-files.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-own-target-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-all-target-headers.hmap -iquote /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/CustomSegue-project-headers.hmap -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources/i386 -I/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/CustomSegue.build/Debug-iphonesimulator/CustomSegue.build/DerivedSources -F/Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.d -c /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/CustomSegue/CustomSegue-Prefix.pch -o /var/folders/kj/_3tmg07968v1hffdqvw4l7j00000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CustomSegue-Prefix-axepexgfbrqrmbhhdquemwjduhiv/CustomSegue-Prefix.pch.pch36"66AD0665-2D22-423E-B2DF-FDDFDF1D2C3F-
+b08376B6B-F693-4C63-96D5-AB6272F094EA
+
+CTouch /Users/debweiss/Documents/Thinkful_Projects/CustomSegue/build/Debug-iphonesimulator/CustomSegue.app
+r0
+

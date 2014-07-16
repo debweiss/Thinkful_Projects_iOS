@@ -1,0 +1,472 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C8E53B11197103BC00B9B60A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E53B10197103BC00B9B60A /* Foundation.framework */; };
+		C8E53B13197103BC00B9B60A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E53B12197103BC00B9B60A /* CoreGraphics.framework */; };
+		C8E53B15197103BC00B9B60A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E53B14197103BC00B9B60A /* UIKit.framework */; };
+		C8E53B1B197103BC00B9B60A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C8E53B19197103BC00B9B60A /* InfoPlist.strings */; };
+		C8E53B1D197103BC00B9B60A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E53B1C197103BC00B9B60A /* main.m */; };
+		C8E53B21197103BC00B9B60A /* ThinkfuliOSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E53B20197103BC00B9B60A /* ThinkfuliOSAppDelegate.m */; };
+		C8E53B24197103BC00B9B60A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8E53B22197103BC00B9B60A /* Main.storyboard */; };
+		C8E53B27197103BC00B9B60A /* ThinkfuliOSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E53B26197103BC00B9B60A /* ThinkfuliOSViewController.m */; };
+		C8E53B29197103BC00B9B60A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8E53B28197103BC00B9B60A /* Images.xcassets */; };
+		C8E53B30197103BC00B9B60A /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E53B2F197103BC00B9B60A /* XCTest.framework */; };
+		C8E53B31197103BC00B9B60A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E53B10197103BC00B9B60A /* Foundation.framework */; };
+		C8E53B32197103BC00B9B60A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8E53B14197103BC00B9B60A /* UIKit.framework */; };
+		C8E53B3A197103BC00B9B60A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C8E53B38197103BC00B9B60A /* InfoPlist.strings */; };
+		C8E53B3C197103BC00B9B60A /* ToggleLabelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C8E53B3B197103BC00B9B60A /* ToggleLabelTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C8E53B33197103BC00B9B60A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C8E53B05197103BB00B9B60A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C8E53B0C197103BC00B9B60A;
+			remoteInfo = ToggleLabel;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C8E53B0D197103BC00B9B60A /* ToggleLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToggleLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8E53B10197103BC00B9B60A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C8E53B12197103BC00B9B60A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C8E53B14197103BC00B9B60A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C8E53B18197103BC00B9B60A /* ToggleLabel-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ToggleLabel-Info.plist"; sourceTree = "<group>"; };
+		C8E53B1A197103BC00B9B60A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C8E53B1C197103BC00B9B60A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C8E53B1E197103BC00B9B60A /* ToggleLabel-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ToggleLabel-Prefix.pch"; sourceTree = "<group>"; };
+		C8E53B1F197103BC00B9B60A /* ThinkfuliOSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThinkfuliOSAppDelegate.h; sourceTree = "<group>"; };
+		C8E53B20197103BC00B9B60A /* ThinkfuliOSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThinkfuliOSAppDelegate.m; sourceTree = "<group>"; };
+		C8E53B23197103BC00B9B60A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C8E53B25197103BC00B9B60A /* ThinkfuliOSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThinkfuliOSViewController.h; sourceTree = "<group>"; };
+		C8E53B26197103BC00B9B60A /* ThinkfuliOSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThinkfuliOSViewController.m; sourceTree = "<group>"; };
+		C8E53B28197103BC00B9B60A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		C8E53B2E197103BC00B9B60A /* ToggleLabelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToggleLabelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8E53B2F197103BC00B9B60A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		C8E53B37197103BC00B9B60A /* ToggleLabelTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ToggleLabelTests-Info.plist"; sourceTree = "<group>"; };
+		C8E53B39197103BC00B9B60A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C8E53B3B197103BC00B9B60A /* ToggleLabelTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ToggleLabelTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C8E53B0A197103BC00B9B60A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8E53B13197103BC00B9B60A /* CoreGraphics.framework in Frameworks */,
+				C8E53B15197103BC00B9B60A /* UIKit.framework in Frameworks */,
+				C8E53B11197103BC00B9B60A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C8E53B2B197103BC00B9B60A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8E53B30197103BC00B9B60A /* XCTest.framework in Frameworks */,
+				C8E53B32197103BC00B9B60A /* UIKit.framework in Frameworks */,
+				C8E53B31197103BC00B9B60A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C8E53B04197103BB00B9B60A = {
+			isa = PBXGroup;
+			children = (
+				C8E53B16197103BC00B9B60A /* ToggleLabel */,
+				C8E53B35197103BC00B9B60A /* ToggleLabelTests */,
+				C8E53B0F197103BC00B9B60A /* Frameworks */,
+				C8E53B0E197103BC00B9B60A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C8E53B0E197103BC00B9B60A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C8E53B0D197103BC00B9B60A /* ToggleLabel.app */,
+				C8E53B2E197103BC00B9B60A /* ToggleLabelTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C8E53B0F197103BC00B9B60A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C8E53B10197103BC00B9B60A /* Foundation.framework */,
+				C8E53B12197103BC00B9B60A /* CoreGraphics.framework */,
+				C8E53B14197103BC00B9B60A /* UIKit.framework */,
+				C8E53B2F197103BC00B9B60A /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C8E53B16197103BC00B9B60A /* ToggleLabel */ = {
+			isa = PBXGroup;
+			children = (
+				C8E53B1F197103BC00B9B60A /* ThinkfuliOSAppDelegate.h */,
+				C8E53B20197103BC00B9B60A /* ThinkfuliOSAppDelegate.m */,
+				C8E53B22197103BC00B9B60A /* Main.storyboard */,
+				C8E53B25197103BC00B9B60A /* ThinkfuliOSViewController.h */,
+				C8E53B26197103BC00B9B60A /* ThinkfuliOSViewController.m */,
+				C8E53B28197103BC00B9B60A /* Images.xcassets */,
+				C8E53B17197103BC00B9B60A /* Supporting Files */,
+			);
+			path = ToggleLabel;
+			sourceTree = "<group>";
+		};
+		C8E53B17197103BC00B9B60A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C8E53B18197103BC00B9B60A /* ToggleLabel-Info.plist */,
+				C8E53B19197103BC00B9B60A /* InfoPlist.strings */,
+				C8E53B1C197103BC00B9B60A /* main.m */,
+				C8E53B1E197103BC00B9B60A /* ToggleLabel-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C8E53B35197103BC00B9B60A /* ToggleLabelTests */ = {
+			isa = PBXGroup;
+			children = (
+				C8E53B3B197103BC00B9B60A /* ToggleLabelTests.m */,
+				C8E53B36197103BC00B9B60A /* Supporting Files */,
+			);
+			path = ToggleLabelTests;
+			sourceTree = "<group>";
+		};
+		C8E53B36197103BC00B9B60A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C8E53B37197103BC00B9B60A /* ToggleLabelTests-Info.plist */,
+				C8E53B38197103BC00B9B60A /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C8E53B0C197103BC00B9B60A /* ToggleLabel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C8E53B3F197103BC00B9B60A /* Build configuration list for PBXNativeTarget "ToggleLabel" */;
+			buildPhases = (
+				C8E53B09197103BC00B9B60A /* Sources */,
+				C8E53B0A197103BC00B9B60A /* Frameworks */,
+				C8E53B0B197103BC00B9B60A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ToggleLabel;
+			productName = ToggleLabel;
+			productReference = C8E53B0D197103BC00B9B60A /* ToggleLabel.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C8E53B2D197103BC00B9B60A /* ToggleLabelTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C8E53B42197103BC00B9B60A /* Build configuration list for PBXNativeTarget "ToggleLabelTests" */;
+			buildPhases = (
+				C8E53B2A197103BC00B9B60A /* Sources */,
+				C8E53B2B197103BC00B9B60A /* Frameworks */,
+				C8E53B2C197103BC00B9B60A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C8E53B34197103BC00B9B60A /* PBXTargetDependency */,
+			);
+			name = ToggleLabelTests;
+			productName = ToggleLabelTests;
+			productReference = C8E53B2E197103BC00B9B60A /* ToggleLabelTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C8E53B05197103BB00B9B60A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = ThinkfuliOS;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Debra Weissman";
+				TargetAttributes = {
+					C8E53B2D197103BC00B9B60A = {
+						TestTargetID = C8E53B0C197103BC00B9B60A;
+					};
+				};
+			};
+			buildConfigurationList = C8E53B08197103BB00B9B60A /* Build configuration list for PBXProject "ToggleLabel" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C8E53B04197103BB00B9B60A;
+			productRefGroup = C8E53B0E197103BC00B9B60A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C8E53B0C197103BC00B9B60A /* ToggleLabel */,
+				C8E53B2D197103BC00B9B60A /* ToggleLabelTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C8E53B0B197103BC00B9B60A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8E53B29197103BC00B9B60A /* Images.xcassets in Resources */,
+				C8E53B1B197103BC00B9B60A /* InfoPlist.strings in Resources */,
+				C8E53B24197103BC00B9B60A /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C8E53B2C197103BC00B9B60A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8E53B3A197103BC00B9B60A /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C8E53B09197103BC00B9B60A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8E53B1D197103BC00B9B60A /* main.m in Sources */,
+				C8E53B27197103BC00B9B60A /* ThinkfuliOSViewController.m in Sources */,
+				C8E53B21197103BC00B9B60A /* ThinkfuliOSAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C8E53B2A197103BC00B9B60A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8E53B3C197103BC00B9B60A /* ToggleLabelTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C8E53B34197103BC00B9B60A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C8E53B0C197103BC00B9B60A /* ToggleLabel */;
+			targetProxy = C8E53B33197103BC00B9B60A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C8E53B19197103BC00B9B60A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C8E53B1A197103BC00B9B60A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C8E53B22197103BC00B9B60A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C8E53B23197103BC00B9B60A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C8E53B38197103BC00B9B60A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C8E53B39197103BC00B9B60A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C8E53B3D197103BC00B9B60A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C8E53B3E197103BC00B9B60A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C8E53B40197103BC00B9B60A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ToggleLabel/ToggleLabel-Prefix.pch";
+				INFOPLIST_FILE = "ToggleLabel/ToggleLabel-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C8E53B41197103BC00B9B60A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ToggleLabel/ToggleLabel-Prefix.pch";
+				INFOPLIST_FILE = "ToggleLabel/ToggleLabel-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C8E53B43197103BC00B9B60A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ToggleLabel.app/ToggleLabel";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ToggleLabel/ToggleLabel-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "ToggleLabelTests/ToggleLabelTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		C8E53B44197103BC00B9B60A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ToggleLabel.app/ToggleLabel";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ToggleLabel/ToggleLabel-Prefix.pch";
+				INFOPLIST_FILE = "ToggleLabelTests/ToggleLabelTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C8E53B08197103BB00B9B60A /* Build configuration list for PBXProject "ToggleLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C8E53B3D197103BC00B9B60A /* Debug */,
+				C8E53B3E197103BC00B9B60A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C8E53B3F197103BC00B9B60A /* Build configuration list for PBXNativeTarget "ToggleLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C8E53B40197103BC00B9B60A /* Debug */,
+				C8E53B41197103BC00B9B60A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		C8E53B42197103BC00B9B60A /* Build configuration list for PBXNativeTarget "ToggleLabelTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C8E53B43197103BC00B9B60A /* Debug */,
+				C8E53B44197103BC00B9B60A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C8E53B05197103BB00B9B60A /* Project object */;
+}
